@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, My name is Michael Craig.  This site is an online resume for my skills as a Technology leader and Software Engineer.</p>
+        <p>Hello, I'm Michael.  I'm a software engineer refreshing my React skills and taking a closer look at next.js.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
